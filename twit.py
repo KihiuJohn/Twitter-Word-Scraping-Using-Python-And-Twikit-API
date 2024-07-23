@@ -6,10 +6,10 @@ from twikit import Client
 init(autoreset=True)
 
 # Enter your account information
-USERNAME = "corecorewrld"
-EMAIL = "jknk636@gmail.com"
-PASSWORD = "Wizzo37!"
-HASHTAG = "#RutoMustGo"  # Replace with the hashtag you want to search for
+USERNAME = "yourusername"
+EMAIL = "youremail"
+PASSWORD = "yourpassword!"
+HASHTAG = "#Hashtag"  # Replace with the hashtag you want to search for
 
 client = Client('en-US')
 
