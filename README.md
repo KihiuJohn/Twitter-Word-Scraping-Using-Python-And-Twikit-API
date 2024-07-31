@@ -5,5 +5,4 @@ Open the the terminal and go to the directory with the python file ie - cd://use
 Twikit and Colorama libraries ie - pip install twikit colorama
 Run the file ie - py filename.py
 Enter your twitter credentials as requested by Twikit API
-Done
-
+Done.
